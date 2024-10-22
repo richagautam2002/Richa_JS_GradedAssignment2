@@ -1,0 +1,52 @@
+/* #cv-form {
+    display: none;
+} */
+ /* #cv-template {
+  display: none; */
+
+/* body {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+} */
+.myimg{
+    border: 1px solid white;
+    border-radius: 50%;
+    text-align: right;
+}
+
+#candidateName{
+
+    background-color: rgb(97, 235, 232);
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+
+    text-align: center;
+
+    margin: 25px;
+           
+  }
+  #firstCom{
+
+    background-color: rgb(242, 195, 206);
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+
+    text-align: center;
+
+    margin: 25px;
+                
+  }
+  #firstCom h6{
+    background-color: rgb(155, 157, 158);
+    font-weight: bold;
+  }
+ 
+  
+ 
